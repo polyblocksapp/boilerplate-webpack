@@ -15,13 +15,13 @@ $ git clone https://github.com/polyblocksapp/boilerplate-webpack.git `polyblocks
 
 Install the dependencies via
 ```sh
-$ yarn install
+$ yarn install or npm install
 ```
 
 ## Start development
 
 ```sh
-$ yarn start
+$ yarn start or npm start
 ```
 
 This will open [http://localhost:8080](http://localhost:8080) to see your project in the browser.
@@ -31,7 +31,7 @@ This will open [http://localhost:8080](http://localhost:8080) to see your projec
 Once you finished your development, build your artwork via
 
 ```sh
-$ yarn run build
+$ yarn run build or npm run build
 ```
 
 You will see `index.js` under `dist` folter. Copy the generated text and paste it in [the mint page](https://polyblocks.io/mint).
