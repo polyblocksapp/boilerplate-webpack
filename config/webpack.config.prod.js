@@ -34,6 +34,7 @@ module.exports = {
       p5: 'p5',
       three: 'three',
       '@svgdotjs/svg.js': '@svgdotjs/svg.js',
+      paper: 'paper',
     }
   ],
 }
